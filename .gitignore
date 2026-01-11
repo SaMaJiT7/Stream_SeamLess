@@ -25,6 +25,11 @@ __pycache__/
 *.log
 *.csv
 
+# Binaries and executables
+*.exe
+*.dll
+ffmpeg.exe
+
 # OS
 .DS_Store
 Thumbs.db
