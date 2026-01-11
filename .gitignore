@@ -24,6 +24,7 @@ __pycache__/
 # Logs
 *.log
 *.csv
+!sample_data.csv
 
 # Binaries and executables
 *.exe
